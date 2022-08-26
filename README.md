@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suryansh Soni @tigerbhai16
-- 👀 I’m interested in Frontend Development / Software Engineering role 
+- 👀 Frontend Development / Software Engineering  
 - 🌱 I’m currently learning ReactJS , DSA
 - 📫 How to reach me [Portfolio link](https://dulcet-bonbon-86127a.netlify.app/)
 
